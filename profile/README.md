@@ -4,7 +4,8 @@ Bienvenue dans l'organisation de la **Wild Code School 09-2024** sur GitHub.
 
 Notre mission est de former les développeurs du futur avec un apprentissage par projets, axé sur les compétences recherchées par les entreprises.
 
-![image](https://media.licdn.com/dms/image/v2/D4E16AQFSaRfDyZHJoQ/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1691588159991?e=2147483647&v=beta&t=bBKnKrRr3KqGK51DMBlzdx00CK1gukZEKAmqOHzAnOg)
+![image](https://github.com/user-attachments/assets/1f79faca-9942-47cb-ba3f-d44f9b1acaca)
+
 
 ## À propos de la Wild Code School
 
